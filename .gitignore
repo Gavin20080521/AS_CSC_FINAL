@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated files
+build/
+cmake-build-*/
+*.o
+*.out
+*.exe
+__pycache__/
+.venv/
+venv/
+node_modules/
