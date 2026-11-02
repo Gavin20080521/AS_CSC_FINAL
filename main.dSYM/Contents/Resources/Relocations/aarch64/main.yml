@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gaozhenchao/Code/AS_CSC_FINAL/main'
+relocations:     []
+...
